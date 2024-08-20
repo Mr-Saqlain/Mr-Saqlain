@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Saqlain (Jerry)
-- 👀 I’m interested in Programming For Ethical Hacking.
-- 🌱 I’m currently learning JavaScript & PhP.
+- 👀 I’m interested in Programming To Make Outstanding Projects and Want to Work With Companies.
+- 🌱 I’m currently learning JavaScript & React Js.
 - 💞️ I’m looking to collaborate on Companies Project.
 - 📫 Email ME For Contact saqlainmuzaffarkk3@gmail.com.
 - 😄 Pronouns: Jerry
